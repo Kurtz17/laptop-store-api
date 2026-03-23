@@ -269,14 +269,6 @@ Pipeline runs automatically on **Push** or **Pull Request** to `main` and `devel
 - Only runs on push to `main`
 - Build Docker image to validate the Dockerfile
 
-### Badge Status
-
-```markdown
-![CI - Unit Testing](https://github.com/Kurtz17/laptop-store-api/actions/workflows/ci-cd.yml/badge.svg?job=unit-test)
-![CS - Security Scan](https://github.com/Kurtz17/laptop-store-api/actions/workflows/ci-cd.yml/badge.svg?job=security-scan)
-![CD - Docker Build](https://github.com/Kurtz17/laptop-store-api/actions/workflows/ci-cd.yml/badge.svg?job=docker-build)
-```
-
 ---
 
 ## 6. 🚀 Running Without Docker (Development)
